@@ -1,0 +1,16 @@
+*~
+~*
+*#
+*.bak
+*.swp
+*.pyc
+*.class
+node_modules/
+dist/
+build/
+install/
+log/
+release/
+external/
+*.xcf
+*.blend*
